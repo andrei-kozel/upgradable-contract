@@ -10,4 +10,4 @@ We want to update the functionality but with the storage remaining. It's importa
   * All functionallity goes in this contract
 * Proxy Contract
   * Address pointer to the functional contract
-  * Functions
+  * Delegate call to the functional contract
