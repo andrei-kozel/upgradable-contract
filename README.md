@@ -7,7 +7,7 @@ We want to update the functionality but with the storage remaining. It's importa
   * User data
 * Functional Contarct
   * Logic
-  * Functions
+  * All functionallity goes in this contract
 * Proxy Contract
   * Address pointer to the functional contract
   * Functions
